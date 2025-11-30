@@ -30,7 +30,8 @@ https://www.figma.com/site/le9FJz1dCq6heoial9aEQZ/weatherApp?node-id=0-1&t=0DOvF
 Получите ключ на WeatherAPI.
 
 Откройте файл script.js и замените константу API_KEY.
-const API_KEY = "b629686fabab4980827190210253011"; 
+
+**const API_KEY = "b629686fabab4980827190210253011";** 
 
 # 📁 СТРУКТУРА ПРОЕКТА
 
