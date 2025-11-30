@@ -31,11 +31,12 @@ https://www.figma.com/site/le9FJz1dCq6heoial9aEQZ/weatherApp?node-id=0-1&t=0DOvF
 
 Откройте файл script.js и замените константу API_KEY.
 const API_KEY = "b629686fabab4980827190210253011"; 
-📁 СТРУКТУРА ПРОЕКТА
-.
-├── index.html          # Шаблон, подключение стилей и скриптов
-├── style.css           # ✨ стили и адаптивность
-├── script.js           # 🧠 Логика API
-├── 404.png             # Изображение для ошибки
-├── ...png              # Изображения состояний погоды (clear, cloud, rain, etc.)
+
+# 📁 СТРУКТУРА ПРОЕКТА
+
+├── index.html         
+├── style.css         
+├── script.js         
+├── 404.png            
+├── ...png              
 └── README.md
